@@ -1,0 +1,39 @@
+@font-face{
+  font-family: "DimaWeb";
+  src: url("./DimaWeb.eot"); /* IE9 Compat Modes */
+  src: url("./DimaWeb.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./DimaWeb.otf") format("opentype"), /* Open Type Font */
+    url("./DimaWeb.svg") format("svg"), /* Legacy iOS */
+    url("./DimaWeb.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./DimaWeb.woff") format("woff"), /* Modern Browsers */
+    url("./DimaWeb.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: "DimaYekanWeb";
+  src: url("./DimaYekanWeb.eot"); /* IE9 Compat Modes */
+  src: url("./DimaYekanWeb.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./DimaYekanWeb.otf") format("opentype"), /* Open Type Font */
+    url("./DimaYekanWeb.svg") format("svg"), /* Legacy iOS */
+    url("./DimaYekanWeb.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./DimaYekanWeb.woff") format("woff"), /* Modern Browsers */
+    url("./DimaYekanWeb.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BYekan";
+  src: url("./Yekan.eot"); /* IE9 Compat Modes */
+  src: url("./Yekan.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./Yekan.otf") format("opentype"), /* Open Type Font */
+    url("./Yekan.svg") format("svg"), /* Legacy iOS */
+    url("./Yekan.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./Yekan.woff") format("woff"), /* Modern Browsers */
+    url("./Yekan.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
